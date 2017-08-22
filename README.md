@@ -11,3 +11,4 @@ Explore the provided StackOverflow searching log data.​ Design an interactive 
 ​ (logs user’s interest after query: reading behavior)  operation (select)  url (same as class_operation.csv operation=’select’)  text (highlighted text)    
 #### user_click
 ​ (logs user’s interest after query: reading content)  operation (target_clicked)  url(same as class_operation.csv operation=’target_clicked’)  target (url of the selected article after query)  text(content text of the selected article after query
+!ScatterPlot(https://github.com/vidhipatel67/Interactive-Visualization/blob/master/AWAssign1.PNG)
